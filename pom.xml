@@ -7,7 +7,7 @@
 
 	<properties>
 		<!-- Test dependencies -->
-		<junit>4.12</junit>
+		<junit>4.13.1</junit>
 		<junitParams>1.0.4</junitParams>
 		<assertj>3.3.0</assertj>
 		<awaitility>1.7.0</awaitility>
